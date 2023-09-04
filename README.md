@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![app](https://github.com/kinwaned/bmi_calculator/assets/75176487/05140259-2fe0-477d-bc56-95c300937c6a)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
